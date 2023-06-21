@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Outfit,Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.challenge{
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 80px;
+    padding: 20px 0;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+.challenge img{
+    width: 260px;
+    border-radius: 10px;
+}
+.Improve{
+    font-family: Outfit;
+    font-weight:700;
+    font-size: 20px;
+    margin-top: 16px;
+}
+.scan{
+    color: #6b6969;
+    font-family: Outfit;
+    font-weight:400;
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.attribution{
+     font-size: 11px; 
+     text-align: center; 
+     margin-top: 50px;
+}
+.attribution a{
+     color: hsl(228, 45%, 44%); 
+}
+   
